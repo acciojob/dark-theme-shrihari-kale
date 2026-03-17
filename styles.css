@@ -1,39 +1,13 @@
 
-.day {
-    background-color: #ffffff;
+  body{
+	  
     color:#5DE2E7;
     text-align: center;
-}
-.night {
-    background-color: #1a1a1a;
-    color: #5DE2E7;
-    height: 100vh;
-    text-align: center;
- 
-    transition: 0.4s;
-}
-
-/* Light Button */
-.button_day {
-    background-color: #000000;
-    color: #ffffff;
-    padding: 10px 20px;
-    font-size: 18px;
-    border: none;
-    border-radius: 6px;
-    cursor: pointer;
-
-}
-
-/* Dark Button */
-.button_night {
-    background-color: #ffffff;
-    color: #000000;
-    padding: 10px 20px;
-    font-size: 18px;
-    border: none;
-    border-radius: 6px;
-    cursor: pointer;
-    margin-top: 30px;
-    transition: 0.3s;
+        background-color: white;
+     
+       }
+       .dark{
+        background-color: black;
+       
+       }
 }
